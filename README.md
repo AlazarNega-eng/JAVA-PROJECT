@@ -117,37 +117,17 @@ The system uses the following main tables:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- Your Name - Initial work
-
 ## 🙏 Acknowledgments
 
-- Ethiopian Tourism Organization
+- OOP Project Instractor
 - All contributors who have helped shape this project
 
 ## 📞 Support
 
-For support, email support@ethiotourism.com or create an issue in the repository.
+For support, email alazarnega07@gmail.com
 
-## 🔄 Updates
 
-### Version 1.0.0
-- Initial release
-- Basic CRUD operations for all entities
-- User authentication
-- Booking management
-- Payment processing
-
-## 📸 Screenshots
-
-[Add screenshots of your application here]
-
-## 🔜 Roadmap
+## 🔜 Future work and Roadmap
 
 - [ ] Mobile application development
 - [ ] Online payment gateway integration
